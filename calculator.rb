@@ -1,3 +1,6 @@
+first_number = 9
+second_number = 3
+
 def calculator(first_number, second_number)
     sum = first_number + second_number
     difference = first_number - second_number
