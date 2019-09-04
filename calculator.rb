@@ -6,4 +6,4 @@ def calculator(first_number, second_number)
     
 end
 
-calculator
+calculator(3, 6)
