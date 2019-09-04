@@ -1,3 +1,3 @@
-def calculator(variable1, operator, variable2)
+def calculator(first_number, operator, second_number)
     
 end
